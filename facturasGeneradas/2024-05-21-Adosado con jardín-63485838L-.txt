@@ -1,0 +1,27 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 20/05/2024 11:57
+
+
+Importe: 60.0
+(Precio por noche x dias = 60 x 1)
+
+
+Inmueble: Adosado con jardín(Madrid, Nueva, n. 8 - 28010)
+	Nº habitaciones: 3	Nº camas: 3	Nº huéspedes: 4
+
+
+Fecha entrada: 21/05/2024
+Fecha salida: 22/05/2024
+
+
+Nombre del cliente: Benjamín Fernández	Teléfono: 623 94 83 94	DNI: 63485838L
+
+
+Para más informacion llame al 632 94 37 30
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 20/05/2024 06:09
+
+
+Importe: 144.0
+(Precio por noche x dias = 80 x 2)
+	Descuento VIP aplicado (-10%): -16.0
+
+
+Inmueble: Piso con vistas a la bahía(A Coruña, Real, n. 5 - 16002)
+	Nº habitaciones: 2	Nº camas: 3	Nº huéspedes: 4
+
+
+Fecha entrada: 18/06/2024
+Fecha salida: 20/06/2024
+
+
+Nombre del cliente: Clara Páez	Teléfono: 632 93 87 42	DNI: 83472874H
+
+
+Para más informacion llame al 632 94 37 30
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------

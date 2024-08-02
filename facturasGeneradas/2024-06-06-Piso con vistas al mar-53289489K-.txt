@@ -1,0 +1,28 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 20/05/2024 11:56
+
+
+Importe: 540.0
+(Precio por noche x dias = 100 x 6)
+	Descuento VIP aplicado (-10%): -60.0
+
+
+Inmueble: Piso con vistas al mar(Barcelona, Paseo marítimo, n. 32 - 8006)
+	Nº habitaciones: 2	Nº camas: 3	Nº huéspedes: 4
+
+
+Fecha entrada: 06/06/2024
+Fecha salida: 12/06/2024
+
+
+Nombre del cliente: Mateo Juan	Teléfono: 658 94 39 59	DNI: 53289489K
+
+
+Para más informacion llame al 632 94 37 30
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------

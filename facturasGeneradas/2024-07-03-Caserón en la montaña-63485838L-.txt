@@ -1,0 +1,27 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 20/05/2024 11:59
+
+
+Importe: 200.0
+(Precio por noche x dias = 200 x 1)
+
+
+Inmueble: Caserón en la montaña(Huesca, Jovellanos, n. 4 - 4003)
+	Nº habitaciones: 6	Nº camas: 9	Nº huéspedes: 12
+
+
+Fecha entrada: 03/07/2024
+Fecha salida: 04/07/2024
+
+
+Nombre del cliente: Benjamín Fernández	Teléfono: 623 94 83 94	DNI: 63485838L
+
+
+Para más informacion llame al 632 94 37 29
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------

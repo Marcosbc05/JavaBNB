@@ -1,0 +1,28 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 20/05/2024 11:51
+
+
+Importe: 324.0
+(Precio por noche x dias = 180 x 2)
+	Descuento VIP aplicado (-10%): -36.0
+
+
+Inmueble: Casa de campo(Madrid, Manzano, n. 8 - 28015)
+	Nº habitaciones: 4	Nº camas: 6	Nº huéspedes: 8
+
+
+Fecha entrada: 13/06/2024
+Fecha salida: 15/06/2024
+
+
+Nombre del cliente: Clara Páez	Teléfono: 632 93 87 42	DNI: 83472874H
+
+
+Para más informacion llame al 632 94 37 30
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------

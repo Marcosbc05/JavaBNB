@@ -1,0 +1,28 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 20/05/2024 11:53
+
+
+Importe: 360.0
+(Precio por noche x dias = 200 x 2)
+	Descuento VIP aplicado (-10%): -40.0
+
+
+Inmueble: Caserón en la montaña(Huesca, Jovellanos, n. 4 - 4003)
+	Nº habitaciones: 6	Nº camas: 9	Nº huéspedes: 12
+
+
+Fecha entrada: 31/05/2024
+Fecha salida: 02/06/2024
+
+
+Nombre del cliente: Pablo Rodríguez	Teléfono: 620 93 83 90	DNI: 45757483M
+
+
+Para más informacion llame al 632 94 37 29
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 25/05/2024 12:18
+
+
+Importe: 210.0
+(Precio por noche x dias = 105 x 2)
+
+
+Inmueble: Piso con ventanal(Barcelona, Paseo de Gracia, n. 87 - 8005)
+	Nº habitaciones: 2	Nº camas: 3	Nº huéspedes: 4
+
+
+Fecha entrada: 26/05/2024
+Fecha salida: 28/05/2024
+
+
+Nombre del cliente: Marcos Barroso	Teléfono: 682 87 37 50	DNI: 53996944M
+
+
+Para más informacion llame al 632 94 37 29
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------

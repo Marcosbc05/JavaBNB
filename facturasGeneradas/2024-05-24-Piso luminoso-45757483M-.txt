@@ -1,0 +1,28 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 20/05/2024 11:54
+
+
+Importe: 162.0
+(Precio por noche x dias = 90 x 2)
+	Descuento VIP aplicado (-10%): -18.0
+
+
+Inmueble: Piso luminoso(Madrid, Arenales, n. 34 - 28001)
+	Nº habitaciones: 2	Nº camas: 3	Nº huéspedes: 4
+
+
+Fecha entrada: 24/05/2024
+Fecha salida: 26/05/2024
+
+
+Nombre del cliente: Pablo Rodríguez	Teléfono: 620 93 83 90	DNI: 45757483M
+
+
+Para más informacion llame al 683 84 92 94
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------

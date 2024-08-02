@@ -1,0 +1,27 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+Fecha de reserva: 30/05/2024 10:44
+
+
+Importe: 360.0
+(Precio por noche x dias = 180 x 2)
+
+
+Inmueble: Casa de campo(Madrid, Manzano, n. 8 - 28015)
+	Nº habitaciones: 4	Nº camas: 6	Nº huéspedes: 8
+
+
+Fecha entrada: 12/07/2024
+Fecha salida: 14/07/2024
+
+
+Nombre del cliente: Marcos Barroso	Teléfono: 682 87 37 50	DNI: 53996944M
+
+
+Para más informacion llame al 632 94 37 30
+
+
+------------------------------GRACIAS POR SU RESERVA-----------------------------
+------------------------------Disfrute de la estancia----------------------------
+---------------------------------------------------------------------------------
